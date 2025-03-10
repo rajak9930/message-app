@@ -20,6 +20,5 @@ A real-time messaging application built with **React, Node.js, Express, MongoDB,
 ## 📦 Installation & Setup
 
 ### 1️⃣ **Clone the repository**
-```sh
-git clone https://github.com/rajak9930/message-app.git
-cd messaging-app
+```sh https://github.com/rajak9930/message-app.git
+
