@@ -1,0 +1,29 @@
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Ignore environment variables
+.env
+
+# Ignore build files
+build/
+dist/
+
+# Ignore logs
+logs
+*.log
+log/
+
+# Ignore editor & system files
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+
+# Ignore React cache & build
+client/node_modules/
+client/build/
